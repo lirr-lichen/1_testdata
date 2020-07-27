@@ -1,3 +1,0 @@
-gittest 
-fa
-fastq
